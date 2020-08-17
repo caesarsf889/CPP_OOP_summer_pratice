@@ -1,2 +1,3 @@
 # CPP_OOP_summer_pratice
-# 寫他個20題 哈們
+# why should I add const in constructor before string&  
+#like   course(const string& name)
